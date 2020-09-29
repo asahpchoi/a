@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T07:55:24.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Hb6qRAtgf_42ZnjGRaET" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-29T08:36:37.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Bruk6ESs2KwxD5Rz-6IQ" version="13.7.6" type="github" pages="2">
   <diagram id="EWSqnJioqDDeJ6R7m2_B" name="AI2 - dataflow">
     <mxGraphModel dx="900" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -268,7 +268,7 @@
         <mxCell id="RtNHBDS2QIgpiVo3VP4l-48" value="readonly view" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Verdana;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="710" y="770" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RtNHBDS2QIgpiVo3VP4l-50" value="&lt;h1&gt;AI2 data flow&lt;/h1&gt;&lt;div&gt;conversation to help client to identify saving and production needs base on life stage and plan/goals.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="RtNHBDS2QIgpiVo3VP4l-50" value="&lt;h1&gt;AI2 data/screen flow&lt;/h1&gt;&lt;div&gt;conversation to help client to identify saving and production needs base on life stage and plan/goals.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="780" height="120" as="geometry" />
         </mxCell>
       </root>
